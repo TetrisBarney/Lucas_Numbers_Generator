@@ -1,2 +1,1 @@
-"This Lucas Numbers Generator can be opened in Visual Studio" 
-"It works by generating a List
+"This Lucas Numbers Generator can be opened in Visual Studio. It works by generating a List of numbers and then checking what the starting number n is, then generating the appropriate next Lucas number in the List"
